@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+Pillow
+PyOpenGL
+pygame
+scipy
+sounddevice
+tqdm
